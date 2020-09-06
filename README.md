@@ -1,2 +1,2 @@
 # Academic
-A REpo For My Academic Projects !
+A Repo For My Academic Projects !
